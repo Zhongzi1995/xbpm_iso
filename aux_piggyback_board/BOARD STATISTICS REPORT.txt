@@ -1,0 +1,26 @@
+
+BOARD STATISTICS REPORT -- IO-1735-1.pcb -- Tue Sep 18 12:14:23 2018
+
+
+Job Design Time:    533:8
+
+Part Types:         9
+Parts TopSide:      24    BottomSide:     0     Total: 24
+Drilled pads:       24    Undrilled pads: 48    Total: 72
+Via Name : STANDARDVIA   Via Count : 0
+Via Name : POWERVIA   Via Count : 6
+Signal Nets:        9
+Connections Routed: 44   Partially 0    Unrouted: 0    Total: 44
+
+Plane  Nets:        0
+Connections Routed: 0    Partially 0    Unrouted: 0    Total: 0
+
+Routed Connection Length (inches) X:   41.07    Y: 22.49    Total: 63.56   
+Unrouted Connection Length (inches) X: 0.00     Y: 0.00     Total: 0.00    
+
+Number of copper clearance errors:         0
+
+Number of Routing Layers:                  2
+Size of Board (square inches):             1.89    
+Equivalent IC count (1-IC/14 pins):        5.14    
+Board Density(boardsize/14pin-components): 0.37    
